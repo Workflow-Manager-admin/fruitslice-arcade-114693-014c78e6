@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /home/kavia/workspace/code-generation/fruitslice-arcade-114693-014c78e6/fruit_ninja_frontend_workspace/fruit_ninja_frontend
+flutter analyze
+
